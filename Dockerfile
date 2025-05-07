@@ -1,5 +1,5 @@
 # specifying base image
-FROM centos:7
+FROM amazonlinux:2
 
 #Description
 LABEL description="Building the image for Apache container"
