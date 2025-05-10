@@ -2,7 +2,7 @@
 FROM amazonlinux:2
 
 #Description
-LABEL description="Building the image for Apache container -2025"
+LABEL description="Building the image for Apache container"
 LABEL maintainer="Rokshana"
 
 # Executing the command to upddate the package
